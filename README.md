@@ -40,7 +40,7 @@ For more information, please visit the department's [official website](https://c
 - **111-2**
   - Cryptography
   - Introduction to Digital Image Processing
-  - 
+    
 Each directory contains lecture notes, assignments, projects, and other relevant materials for the respective courses.
 
 ## How to Use
