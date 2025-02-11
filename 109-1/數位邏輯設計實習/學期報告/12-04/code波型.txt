@@ -1,0 +1,5 @@
+module encode(out,A,B,C,D,E);
+input A,B,C,D,E;
+output out;
+assign out=A&B&C&D&E|A&B&C&D|A&B&C&E|A&B&C|A&B&D&E|A&B&D|A&B&E|A&C&D&E|A&C&D|A&C&E|B&C&D&E|B&C&D|B&C&E|B&D&E|C&D&E;
+endmodule

@@ -1,0 +1,11 @@
+D:\Lease\Lease\Lease\bin\Debug\Lease.exe.config
+D:\Lease\Lease\Lease\bin\Debug\Lease.exe
+D:\Lease\Lease\Lease\bin\Debug\Lease.pdb
+D:\Lease\Lease\Lease\obj\Debug\Lease.csproj.AssemblyReference.cache
+D:\Lease\Lease\Lease\obj\Debug\Lease.Form1.resources
+D:\Lease\Lease\Lease\obj\Debug\Lease.Properties.Resources.resources
+D:\Lease\Lease\Lease\obj\Debug\Lease.csproj.GenerateResource.cache
+D:\Lease\Lease\Lease\obj\Debug\Lease.csproj.CoreCompileInputs.cache
+D:\Lease\Lease\Lease\obj\Debug\Lease.exe
+D:\Lease\Lease\Lease\obj\Debug\Lease.pdb
+D:\Lease\Lease\Lease\obj\Debug\Lease.passwd.resources

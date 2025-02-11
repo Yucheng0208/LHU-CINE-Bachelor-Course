@@ -1,0 +1,14 @@
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.exe
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.deps.json
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.runtimeconfig.json
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.runtimeconfig.dev.json
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.dll
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\bin\Debug\netcoreapp3.1\ConsoleApp0928.pdb
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.csproj.AssemblyReference.cache
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.GeneratedMSBuildEditorConfig.editorconfig
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.AssemblyInfoInputs.cache
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.AssemblyInfo.cs
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.csproj.CoreCompileInputs.cache
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.dll
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.pdb
+D:\LHU_CIN\1101\C#\ConsoleApp0928\ConsoleApp0928\obj\Debug\netcoreapp3.1\ConsoleApp0928.genruntimeconfig.cache

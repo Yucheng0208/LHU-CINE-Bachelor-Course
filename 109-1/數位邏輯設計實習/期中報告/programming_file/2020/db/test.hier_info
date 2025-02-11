@@ -1,0 +1,11 @@
+|test
+pin_name7 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+pin_name => inst4.IN0
+pin_name => inst.IN0
+pin_name5 => inst4.IN1
+pin_name5 => inst.IN1
+pin_name6 => inst5.IN1
+pin_name6 => inst1.IN1
+pin_name8 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+
+

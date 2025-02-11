@@ -1,0 +1,25 @@
+|20201023
+pin_name9 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+pin_name => inst.IN0
+pin_name => inst1.IN1
+pin_name => inst2.IN0
+pin_name => inst3.IN1
+pin_name => inst4.IN1
+pin_name => inst5.IN0
+pin_name => inst6.IN0
+pin_name => pin_name16.DATAIN
+pin_name8 => inst.IN1
+pin_name8 => inst1.IN0
+pin_name8 => inst3.IN0
+pin_name8 => inst4.IN0
+pin_name8 => inst5.IN1
+pin_name8 => inst6.IN1
+pin_name10 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+pin_name11 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+pin_name12 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+pin_name13 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+pin_name14 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+pin_name15 <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+pin_name16 <= pin_name.DB_MAX_OUTPUT_PORT_TYPE
+
+

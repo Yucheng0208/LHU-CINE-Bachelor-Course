@@ -1,0 +1,8 @@
+|20201030
+pin_name <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+B => inst9.IN0
+Cin => inst9.IN1
+Cin => inst.IN1
+A => inst.IN0
+
+
