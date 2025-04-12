@@ -4,15 +4,15 @@ This repository contains the coursework and materials from my studies in the Dep
 
 ## About the Department
 
-The Department of Computer Information and Network Engineering focuses on the development of computer information engineering and network technologies. It emphasizes professional academic advancement and system integration, aiming to cultivate students' deep professional knowledge and independent research capabilities. The department offers courses in three main modules:
+The Department of Computer Information and Network Engineering focuses on developing computer information engineering and network technologies. It emphasizes professional academic advancement and system integration, aiming to cultivate students' deep professional knowledge and independent research capabilities. The department offers courses in three main modules:
 
-1. **Information and Communication Technology (ICT):** Combines network device implementation courses, focusing on embedded systems to advance into Industry 4.0 and smart IoT applications.
+1. **Information and Communication Technology (ICT):** Combines network device implementation courses, focusing on embedded systems to advance into Industry 4.0 and innovative IoT applications.
 
-2. **Software Design and Development:** Integrates application interface design and database management, linking to cloud computing service development.
+2. **Software Design and Development** Integrates application interface design and database management, linking to cloud computing service development.
 
-3. **Network and Information Security Management:** Focuses on cybersecurity offense and defense, as well as network security management, establishing a foundation for IoT security.
+3. **Network and Information Security Management:** Focuses on cybersecurity offense and defense and network security management, establishing a foundation for IoT security.
 
-For more information, please visit the department's [official website](https://cin.lhu.edu.tw/).
+For more information, please visit the [department's official website](https://cin.lhu.edu.tw/).
 
 ## Repository Structure
 
@@ -26,7 +26,7 @@ For more information, please visit the department's [official website](https://c
   - Programming II
 
 - **110-1**
-  - C# Progamming
+  - C# Programming
   - Introduction to Internet of Things
   - Java Programming
 
@@ -45,8 +45,11 @@ Each directory contains lecture notes, assignments, projects, and other relevant
 
 ## How to Use
 
-Feel free to explore the repository to find resources related to each course. The materials are organized by academic year and course.
+The repository contains resources related to each course. The materials are organized by academic year and course.
+
+ [!CAUTION]  
+> The course materials, including assignments, are protected under the [MIT License](./LICENSE). However, the lecture slides and teaching presentations are the intellectual property of the respective instructors. If you want to use these materials, please follow the proper citation guidelines and ensure you do not infringe upon others' copyrights.
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the MIT License. Please look at the [MIT LICENSE](LICENSE) file for more information.
