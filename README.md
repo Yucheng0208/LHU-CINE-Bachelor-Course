@@ -47,9 +47,9 @@ Each directory contains lecture notes, assignments, projects, and other relevant
 
 The repository contains resources related to each course. The materials are organized by academic year and course.
 
- [!CAUTION]  
+> [!CAUTION]  
 > The course materials, including assignments, are protected under the [MIT License](./LICENSE). However, the lecture slides and teaching presentations are the intellectual property of the respective instructors. If you want to use these materials, please follow the proper citation guidelines and ensure you do not infringe upon others' copyrights.
 
 ## License
 
-This repository is licensed under the MIT License. Please look at the [MIT LICENSE](LICENSE) file for more information.
+This repository is licensed under the MIT License. For more information, please see the [MIT LICENSE](LICENSE) file.
